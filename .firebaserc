@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "e-clone-7",
+    "build": "ecloneproject-b25d5",
+    "staging": "e-clone-7"
+  },
+  "targets": {},
+  "etags": {}
+}
